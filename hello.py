@@ -1,2 +1,4 @@
 print(10 * "bilal's laptop")
-variable = 10
+print("hell yah")
+print("chumma")
+

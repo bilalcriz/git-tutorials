@@ -1,4 +1,4 @@
-print(10 * "bilal's laptop")
-print("hell yah")
-print("chumma")
+a = [1,2,3]
+print(sum(a))
 
+print("checking cred user name")
